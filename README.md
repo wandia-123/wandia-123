@@ -15,7 +15,7 @@ I am a Computer Science student currently specializing in **Data Analytics**. I 
 *   **Phase 3: Python for Data Analytics & Power BI**
     *   *Focus:* Data manipulation using Pandas/NumPy and building automated interactive dashboards.
     *   *Target Completion:* Late November to Mid December
-*   **Phase : Actively Build Relevant Projects to Improve and Master my Skills**
+*   **Phase 4: Actively Build Relevant Projects to Improve and Master my Skills**
     *   *Focus:* Excel, SQL, Python for Data Analytics and Power BI
     *   *Target Completion:* End of January
 
