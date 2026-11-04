@@ -1,10 +1,10 @@
-# Hi there, I'm Moreeene Ndungu 👋
+# Hi there, I'm Moreeene Ndungu 
 
 I am a Computer Science student currently specializing in **Data Analytics**. I am actively building my portfolio and practical skills ahead of my upcoming Industrial Attachment in **February 2027**. 
 
 ---
 
-### 🚀 My Current Learning Roadmap (Nov 2026 - Jan 2027)
+###  My Current Learning Roadmap (Nov 2026 - Jan 2027)
 
 *   **Phase 1: SQL Mastery (In Progress)**
     *   *Focus:* Database design, relational schemas, writing efficient queries (`SELECT`, `JOIN`, `GROUP BY`), and data extraction.
@@ -21,7 +21,7 @@ I am a Computer Science student currently specializing in **Data Analytics**. I 
 
 ---
 
-### 📊 Upcoming Portfolio Projects
+###  Upcoming Portfolio Projects
 
 I am currently conceptualizing and building localized data projects tailored for operational hubs (Utilities, Logistics, and Manufacturing), including:
 1. **Logistics & Supply Chain Dashboard** (Excel-focused distribution tracking)
@@ -29,7 +29,7 @@ I am currently conceptualizing and building localized data projects tailored for
 
 ---
 
-### 📫 Connect with Me
+###  Connect with Me
 *   **Email:** moreenewandia@gmail.com
 
 *“Actively turning raw data into actionable local insights.”*
